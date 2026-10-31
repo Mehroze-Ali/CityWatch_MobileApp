@@ -1,0 +1,4 @@
+garbage
+painted_hump
+pothole
+unpainted_hump
